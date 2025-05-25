@@ -1,5 +1,5 @@
 # Ex-3.Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### NAME: SINDHUJA P                                                                          
+### NAME: SINDHUJA P                                                                       
 ### REGISTER NUMBER : 212222220047
 # Aim: 
 The aim of this experiment is to design and develop an AI-powered chatbot that can assist users with product-related queries, such as troubleshooting, order tracking, and general inquiries. The chatbot should be capable of responding accurately and promptly by leveraging various prompting techniques to deliver natural, context-sensitive conversations. This approach enhances both efficiency and user satisfaction in digital customer service interactions.
